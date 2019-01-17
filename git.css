@@ -2,7 +2,8 @@
 
 main {
 	background: #FAFAFA;
-	color: blue;
+	background-color: blue
+	color: white;
 }
 
 .icons-social a {
