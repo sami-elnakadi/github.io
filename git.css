@@ -1,15 +1,14 @@
 /* Theme */
 
 main {
-	background: #FAFAFA;
-	background-color: blue
-	color: white;
+	background: #E8EAF6;
+	color: #303F9F;
 }
 
 .icons-social a {
-	color: #0277BD;
+	color: #303F9F;
 }
 
 .icons-social a svg path{
-	fill: #0277BD;
+	fill: #303F9F;
 }
