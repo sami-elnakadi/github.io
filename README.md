@@ -9,4 +9,4 @@ A Charleroi; lors de la formation BeCode.
 
 J'en suis au début de la formation, des modifications viendront par la suite, en fonction de l'évolution de mes compétences!
 
-![](BeCode.png)
+![](BeCode.jpg)
